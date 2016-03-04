@@ -1,0 +1,12 @@
+cappuccino sold: 10, Expenses: $15.60, Revenue: $35.00
+espresso sold: 10, Expenses: $9.50, Revenue: $15.00
+latte sold: 10, Expenses: $16.70, Revenue: $37.50
+black tea sold: 10, Expenses: $3.50, Revenue: $17.90
+herbal tea sold: 10, Expenses: $3.50, Revenue: $20.90
+macchiato sold: 10, Expenses: $14.50, Revenue: $27.50
+americano sold: 10, Expenses: $7.00, Revenue: $26.50
+cold press sold: 10, Expenses: $5.00, Revenue: $25.00
+hot chocolate sold: 10, Expenses: $6.50, Revenue: $22.50
+coffee sold: 10, Expenses: $2.50, Revenue: $16.50
+chai tea sold: 10, Expenses: $12.30, Revenue: $35.00
+mocha sold: 10, Expenses: $14.50, Revenue: $37.00
