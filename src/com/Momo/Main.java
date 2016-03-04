@@ -53,7 +53,8 @@ public class Main {
                 mySalesReport.write(String.format("%s sold: %d, Expenses: $%.2f, Revenue: $%.2f%n", teaName,
                         numberItem, expenses(cost, numberItem),  totalRevnue(priceOfTea, numberItem )));
 
-                line = report.readLine();
+
+
             }
             mySalesReport.close();
             report.close();
@@ -61,7 +62,7 @@ public class Main {
             System.out.println("File not found");
         }
     }
-    //A method that calculates and returns the expenses
+    //A method that calculates and returns the expenses for the eact product
     public static double expenses(double cost, int typeSold ){
         double totalExpeses = cost*typeSold;
         return totalExpeses;
